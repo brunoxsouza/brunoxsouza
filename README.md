@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Olá, eu sou Bruno Souza
 
-<!--
-**brunoxsouza/brunoxsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Desenvolvedor Full Stack com foco em aplicações modernas utilizando React, Next.js, TypeScript e Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência no desenvolvimento de interfaces performáticas, responsivas e escaláveis, além da criação de APIs e integrações para aplicações web.
+
+Atualmente focado em:
+
+* ⚡ Desenvolvimento Front-End moderno
+* 🧠 Performance e UX
+* 🔥 Arquitetura escalável com Next.js
+* 🎨 Interfaces interativas e animações
+* ☁️ Deploy e infraestrutura com Vercel
+* 🤖 Exploração de IA aplicada ao desenvolvimento
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+</p>
+
+### DevOps & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🌐 Portfólio Pessoal
+
+Projeto desenvolvido com foco em performance, animações e experiência do usuário.
+
+**Stack:** Next.js • TypeScript • Tailwind • Framer Motion
+
+---
+
+### 📱 Aplicações Web Responsivas
+
+Coleção de projetos modernos utilizando React e Next.js com foco em:
+
+* Responsividade
+* Performance
+* Componentização
+* SEO
+* UX/UI
+
+---
+
+### ⚙️ APIs & Integrações
+
+Projetos voltados para:
+
+* Criação de APIs REST
+* Integrações externas
+* Autenticação
+* Arquitetura escalável
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/brunodesouzasilva/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:souzabruno0110@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Filosofia
+
+> “Código limpo, interfaces intuitivas e evolução contínua.”
+
+---
+
+## ⚡ Fun fact
+
+Além de desenvolvimento web, também gosto de explorar animações, experiências interativas e otimização de performance para criar aplicações mais fluidas e modernas.
