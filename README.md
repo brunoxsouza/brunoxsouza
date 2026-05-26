@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Bruno Souza
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,50:24283b,100:7aa2f7&text=Bruno%20de%20Souza%20Silva&fontColor=c0caf5&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
+</div>
 
 ## 🚀 Sobre mim
 
@@ -100,3 +102,6 @@ Projetos voltados para:
 ## ⚡ Fun fact
 
 Além de desenvolvimento web, também gosto de explorar animações, experiências interativas e otimização de performance para criar aplicações mais fluidas e modernas.
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,50:24283b,100:7aa2f7" />
+</div>
