@@ -83,7 +83,7 @@ Projetos voltados para:
 ## 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/brunodesouzasilva/)">
+  <a href="https://www.linkedin.com/in/brunodesouzasilva">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:souzabruno0110@gmail.com">
